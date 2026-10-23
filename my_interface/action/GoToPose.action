@@ -1,0 +1,9 @@
+# Goal
+my_interface/TargetPose target
+---
+# Result
+bool success
+---
+# Feedback
+float32 distance_remaining
+
